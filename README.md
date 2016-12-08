@@ -10,4 +10,4 @@ Link to app: https://brentbrewington.shinyapps.io/have-we-been-pwned/
 3. Return table showing username, breach date, posted date, and description
 
 ### Screenshot:
-![](https://raw.githubusercontent.com/bbrewington/have-we-been-pwned/master/images/HaveIBeenPwned_Screenshot.png)
+![](https://github.com/bbrewington/have-we-been-pwned/raw/master/images/HaveIBeenPwned_Screenshot.PNG)

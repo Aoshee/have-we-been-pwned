@@ -26,7 +26,7 @@ server <- shinyServer(function(input, output) {
      require(dplyr)
      require(readr)
 if(nchar(input$accounts) > 0){
-     accounts <- strsplit(x = input$accounts, split = "(, )|,")[[1]]  
+     accounts <- strsplit(x = input$accounts, split = "(, )|,")  
      r <- vector(mode = "list", length = length(accounts))
      results <- vector(mode = "list", length = length(accounts))
      
